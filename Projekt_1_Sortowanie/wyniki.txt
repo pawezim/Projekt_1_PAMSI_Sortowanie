@@ -1,0 +1,45 @@
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.05879
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.05805
+Przed sortowaniem 25 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.05581
+Przed sortowaniem 50 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.05161
+Przed sortowaniem 75 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.03809
+Przed sortowaniem 95 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.03328
+Przed sortowaniem 99 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.03147
+Przed sortowaniem 99.7 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.01227
+Przed sortowaniem 100 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.09142
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.08986
+Przed sortowaniem 25 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 100
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.08694
+Przed sortowaniem 50 procent poczatkowych elementow bylo uporzadkowane rosnaco.
+
+Algorytm: introsort	Ilosc powtorzen: 75
+Rozmiar tablicy: 100000	Sredni czas sortowania [s]: 0.0935334
+
